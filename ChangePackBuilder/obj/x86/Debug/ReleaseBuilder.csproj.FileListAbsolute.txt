@@ -1,0 +1,27 @@
+I:\CodezNProjects\C#Projects\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ReleaseBuilder.csproj.GenerateResource.Cache
+C:\Users\Aman.Agrawal.AD\Desktop\GoogleDrive\Google Drive\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ReleaseBuilder.Properties.Resources.resources
+C:\Users\Aman.Agrawal.AD\Desktop\GoogleDrive\Google Drive\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ReleaseBuilder.csproj.GenerateResource.Cache
+C:\Users\Aman.Agrawal.AD\Desktop\GoogleDrive\Google Drive\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ReleaseBuilder.frmReleaseBuilder.resources
+C:\Users\Aman.Agrawal.AD\Desktop\GoogleDrive\Google Drive\ReleaseBuilder\ReleaseBuilder\bin\Debug\ReleasePackBuilder.exe.config
+C:\Users\Aman.Agrawal.AD\Desktop\GoogleDrive\Google Drive\ReleaseBuilder\ReleaseBuilder\bin\Debug\ReleasePackBuilder.exe
+C:\Users\Aman.Agrawal.AD\Desktop\GoogleDrive\Google Drive\ReleaseBuilder\ReleaseBuilder\bin\Debug\ReleasePackBuilder.pdb
+C:\Users\Aman.Agrawal.AD\Desktop\GoogleDrive\Google Drive\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ReleasePackBuilder.exe
+C:\Users\Aman.Agrawal.AD\Desktop\GoogleDrive\Google Drive\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ReleasePackBuilder.pdb
+C:\Users\Aman.Agrawal.AD\Desktop\GoogleDrive\Google Drive\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ReleaseBuilder.csprojResolveAssemblyReference.cache
+C:\Projects\ReleaseBuilder\ReleaseBuilder\bin\Debug\ReleasePackBuilder.exe.config
+C:\Projects\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ReleasePackBuilder.exe
+C:\Projects\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ReleasePackBuilder.pdb
+C:\Projects\ReleaseBuilder\ReleaseBuilder\bin\Debug\ReleasePackBuilder.exe
+C:\Projects\ReleaseBuilder\ReleaseBuilder\bin\Debug\ReleasePackBuilder.pdb
+C:\Projects\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ReleaseBuilder.csprojResolveAssemblyReference.cache
+C:\Projects\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ReleaseBuilder.frmReleaseBuilder.resources
+C:\Projects\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ReleaseBuilder.Properties.Resources.resources
+C:\Projects\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ReleaseBuilder.csproj.GenerateResource.Cache
+I:\CodezNProjects\C#Projects\ReleaseBuilder\ReleaseBuilder\bin\Debug\ChangePackBuilder.exe.config
+I:\CodezNProjects\C#Projects\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ReleaseBuilder.csprojResolveAssemblyReference.cache
+I:\CodezNProjects\C#Projects\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ChangePackBuilder.Properties.Resources.resources
+I:\CodezNProjects\C#Projects\ReleaseBuilder\ReleaseBuilder\bin\Debug\ChangePackBuilder.exe
+I:\CodezNProjects\C#Projects\ReleaseBuilder\ReleaseBuilder\bin\Debug\ChangePackBuilder.pdb
+I:\CodezNProjects\C#Projects\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ChangePackBuilder.exe
+I:\CodezNProjects\C#Projects\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ChangePackBuilder.pdb
+I:\CodezNProjects\C#Projects\ReleaseBuilder\ReleaseBuilder\obj\x86\Debug\ChangePackBuilder.frmChangePackBuilder.resources
