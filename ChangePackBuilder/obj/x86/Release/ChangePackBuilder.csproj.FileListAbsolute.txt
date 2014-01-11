@@ -1,0 +1,8 @@
+I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\bin\Release\ChangePackBuilder.exe.config
+I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\bin\Release\ChangePackBuilder.exe
+I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\bin\Release\ChangePackBuilder.pdb
+I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\obj\x86\Release\ChangePackBuilder.frmChangePackBuilder.resources
+I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\obj\x86\Release\ChangePackBuilder.Properties.Resources.resources
+I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\obj\x86\Release\ChangePackBuilder.csproj.GenerateResource.Cache
+I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\obj\x86\Release\ChangePackBuilder.exe
+I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\obj\x86\Release\ChangePackBuilder.pdb
