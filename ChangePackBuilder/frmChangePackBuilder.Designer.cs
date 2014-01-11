@@ -73,6 +73,7 @@
             this.changeList.HorizontalScrollbar = true;
             this.changeList.Location = new System.Drawing.Point(13, 44);
             this.changeList.Name = "changeList";
+            this.changeList.SelectionMode = System.Windows.Forms.SelectionMode.MultiSimple;
             this.changeList.Size = new System.Drawing.Size(630, 225);
             this.changeList.TabIndex = 1;
             // 

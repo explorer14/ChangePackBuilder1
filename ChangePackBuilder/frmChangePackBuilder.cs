@@ -106,19 +106,18 @@ namespace ChangePackBuilder
 
         private void btnBrowseToReleaseDestination_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrWhiteSpace(destinationFolder))
+            //fixed a bug here where, once the release folder was set the folder browser didn't open again even if you
+            //wanted to change the path.
+            if (DialogResult.OK == ReleaseFolderBrowser.ShowDialog())
             {
-                if (DialogResult.OK == ReleaseFolderBrowser.ShowDialog())
-                {
-                    destinationFolder = ReleaseFolderBrowser.SelectedPath;
-                    txtReleaseDestination.Text = destinationFolder;
-                }
-            }
+                destinationFolder = ReleaseFolderBrowser.SelectedPath;
+                txtReleaseDestination.Text = destinationFolder;
+            }         
         }
 
         private void frmReleaseBuilder_Load(object sender, EventArgs e)
         {
-            this.Text += Application.ProductVersion;
+            this.Text += Application.ProductVersion;            
         }
 
         private void btnStopMonitoring_Click(object sender, EventArgs e)
@@ -134,9 +133,15 @@ namespace ChangePackBuilder
 
         private void removeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (changeList.SelectedItem != null)
-            {                
-                changeList.Items.RemoveAt(changeList.SelectedIndex);
+            if (changeList.SelectedItems.Count > 0)
+            {
+                //allow multiple selects and deletes
+                int itemCount = changeList.SelectedIndices.Count;
+
+                for (int i = 0; i < itemCount; i++)
+                {
+                    changeList.Items.RemoveAt(changeList.SelectedIndex);
+                }                                
             }            
         }
     }

@@ -17,3 +17,9 @@ I:\CodezNProjects\C#Projects\ReleaseBuilder\ChangePackBuilder\obj\x86\Debug\Chan
 I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\bin\Debug\ChangePackBuilder.exe.config
 I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\obj\x86\Debug\ChangePackBuilder.exe
 I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\obj\x86\Debug\ChangePackBuilder.pdb
+I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\bin\Debug\ChangePackBuilder.exe
+I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\bin\Debug\ChangePackBuilder.pdb
+I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\obj\x86\Debug\ChangePackBuilder.csprojResolveAssemblyReference.cache
+I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\obj\x86\Debug\ChangePackBuilder.frmChangePackBuilder.resources
+I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\obj\x86\Debug\ChangePackBuilder.Properties.Resources.resources
+I:\CodezNProjects\C#Projects\ChangePackBuilder\ChangePackBuilder\obj\x86\Debug\ChangePackBuilder.csproj.GenerateResource.Cache
