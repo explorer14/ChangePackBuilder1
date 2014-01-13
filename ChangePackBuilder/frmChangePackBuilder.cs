@@ -3,7 +3,7 @@
  * Written By: Aman Agrawal
  * First Created On : 15-October-2013
  * Last updated: 12-Jan-2014
- * Description: Track changed code files as you work on them and build a change pack with one button click.
+ * Description: Track changed code files as you work on them and build a change pack with single button click.
  */
 #endregion
 using System;
